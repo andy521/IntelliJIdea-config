@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="EDITOR_TAB_LIMIT" value="35" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
