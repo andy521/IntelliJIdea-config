@@ -15,8 +15,10 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
+    <option name="collapseLambdas" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
     <option name="COLLAPSE_ACCESSORS" value="true" />
+    <option name="COLLAPSE_CLOSURES" value="false" />
     <option name="COLLAPSE_SUPPRESS_WARNINGS" value="false" />
   </component>
 </application>
