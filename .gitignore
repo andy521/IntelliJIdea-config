@@ -1,6 +1,5 @@
 # 此仓库是用于windows下的IntellijIdea，以IntelliIIdea13为基础，.git目录应该放置在C:\Users\用户名\.IntelliJIdea13\config\
 
-colors
 componentVersions
 idea13.key
 port
