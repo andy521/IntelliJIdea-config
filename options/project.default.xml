@@ -58,9 +58,6 @@
           </MavenImportingSettings>
         </option>
       </component>
-      <component name="MavenRunner">
-        <option name="vmOptions" value="-Xms1024m -Xmx1024m -XX:PermSize=256m -XX:MaxPermSize=256m" />
-      </component>
       <component name="ProjectDictionaryState">
         <dictionary name="Administrator" />
       </component>
