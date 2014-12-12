@@ -1,6 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DatabaseSettings">
+    <text-mode>
+      <parameter-patterns>
+        <parameter-pattern value="?\d+" />
+        <parameter-pattern value=":\w+" />
+        <parameter-pattern value="%\w+" />
+        <parameter-pattern value="$\{[^$\{\}]*\}" />
+        <parameter-pattern value="$\w+$" />
+        <parameter-pattern value="#\w+#" />
+      </parameter-patterns>
+    </text-mode>
     <extractors>
       <std-extractor type="csv" name="Comma-separated Values (CSV)" />
       <std-extractor type="tsv" name="Tab-separated Values (TSV)" />
@@ -12,4 +21,3 @@
     </extractors>
   </component>
 </application>
-

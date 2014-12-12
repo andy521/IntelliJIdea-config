@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="DefaultCopy" parent="$default">
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
@@ -129,4 +128,3 @@
   </action>
   <action id="Vcs.UpdateProject" />
 </keymap>
-

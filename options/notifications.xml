@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
@@ -9,6 +8,6 @@
     <toolWindow group="Inspection Results" />
     <toolWindow group="Debugger messages" />
     <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Web Deployment: Remote Host" />
   </component>
 </application>
-
