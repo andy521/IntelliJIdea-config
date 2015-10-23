@@ -19,6 +19,15 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="CopyrightManager" default="ZA-Copyright">
+        <copyright>
+          <option name="myName" value="ZA-Copyright" />
+          <option name="notice" value="Copyright &amp;#36;today.year Zhongan.com All right reserved. This software is the&#10;confidential and proprietary information of Zhongan.com (&quot;Confidential&#10;Information&quot;). You shall not disclose such Confidential Information and shall&#10;use it only in accordance with the terms of the license agreement you entered&#10;into with Zhongan.com." />
+        </copyright>
+        <module2copyright>
+          <element module="All" copyright="ZA-Copyright" />
+        </module2copyright>
+      </component>
       <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
         <file url="PROJECT" charset="UTF-8" />
       </component>
@@ -207,6 +216,18 @@
       </component>
       <component name="masterDetails">
         <states>
+          <state key="Copyright.UI">
+            <settings>
+              <last-edited>ZA-Copyright</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.6</last-edited>
