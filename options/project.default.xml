@@ -203,6 +203,7 @@
           <Port>5050</Port>
         </configuration>
       </component>
+      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$APPLICATION_CONFIG_DIR$/dict" Dictionaries="0" />
       <component name="SvnConfiguration" myUseAcceleration="nothing">
         <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
       </component>
