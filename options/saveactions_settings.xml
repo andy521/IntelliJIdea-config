@@ -1,0 +1,9 @@
+<application>
+  <component name="SaveActionSettings">
+    <option name="exclusions">
+      <set>
+        <option value=".*/.*\.java" />
+      </set>
+    </option>
+  </component>
+</application>
