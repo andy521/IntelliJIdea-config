@@ -1,0 +1,26 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="defaultSettings" value="true" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1442454376126" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="$APPLICATION_CONFIG_DIR$/my-setting/EclipseFormatter/JavaCode.xml" />
+          <option name="selectedJavaProfile" value="MyEclipse" />
+          <option name="useOldEclipseJavaFormatter" value="true" />
+        </Settings>
+        <Settings>
+          <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1445412592722" />
+          <option name="name" value="Zhongan-Conventions" />
+          <option name="pathToConfigFileJava" value="$APPLICATION_CONFIG_DIR$/my-setting/EclipseFormatter/Zhongan-Conventions.xml" />
+          <option name="selectedJavaProfile" value="Zhongan Conventions" />
+          <option name="useOldEclipseJavaFormatter" value="true" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

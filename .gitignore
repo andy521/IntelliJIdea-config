@@ -15,7 +15,7 @@ settingsRepository/
 options/abbreviations.xml
 options/appComponentVersions.xml
 #options/colors.scheme.xml
-options/eclipseCodeFormatter.xml
+#options/eclipseCodeFormatter.xml
 options/feature.usage.statistics.xml
 #options/filetypes.xml
 options/images.support.xml
