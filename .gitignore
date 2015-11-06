@@ -2,15 +2,19 @@
 
 componentVersions
 idea14.key
+idea15.key
 port
+port.lock
 plugins
 quicklists
 tasks
 VSS
 
+settingsRepository/
+
 options/abbreviations.xml
 options/appComponentVersions.xml
-options/colors.scheme.xml
+#options/colors.scheme.xml
 options/eclipseCodeFormatter.xml
 options/feature.usage.statistics.xml
 #options/filetypes.xml
@@ -18,7 +22,7 @@ options/images.support.xml
 options/jdk.table.xml
 options/mavenServices.xml
 options/options.xml
-options/other.xml
+#options/other.xml
 options/path.macros.xml
 options/plugin_ui.xml
 options/runner.layout.xml
