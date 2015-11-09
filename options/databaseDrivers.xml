@@ -64,7 +64,7 @@
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
       </library>
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/config/jdbc-drivers/mysql-connector-java-5.1.34-bin.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.34-bin.jar</url>
       </library>
     </driver>
     <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
