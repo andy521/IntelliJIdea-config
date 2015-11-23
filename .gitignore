@@ -1,5 +1,9 @@
 # 此仓库是用于windows下的IntellijIdea，以IntelliIIdea14为基础，.git目录应该放置在C:\Users\用户名\.IntelliJIdea15\config\
 # Idea15注册时选择License server，填http://idea.lanyus.com，然后点击OK，就注册了
+# 备用激活服务器地址：
+# http://0.idea.lanyus.com
+# http://1.idea.lanyus.com
+# http://2.idea.lanyus.com
 
 componentVersions
 idea14.key
