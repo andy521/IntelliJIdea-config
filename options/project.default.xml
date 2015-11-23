@@ -32,7 +32,7 @@
       <component name="DependencyValidationManager">
         <scope name="ZA-Packages" pattern="src[*]:com.zhongan..*||test[*]:com.zhongan..*" />
       </component>
-      <component name="Encoding">
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
         <file url="PROJECT" charset="UTF-8" />
       </component>
       <component name="InspectionProjectProfileManager">
