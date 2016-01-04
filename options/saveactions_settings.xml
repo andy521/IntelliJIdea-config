@@ -3,6 +3,10 @@
     <option name="exclusions">
       <set>
         <option value=".*/.*\.java" />
+        <option value=".*/.*\.js" />
+        <option value=".*/.*\.jsp" />
+        <option value=".*/.*\.tag" />
+        <option value=".*/.*\.xml" />
       </set>
     </option>
   </component>

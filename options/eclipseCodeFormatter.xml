@@ -4,13 +4,14 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
-          <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+          <option name="disabledFileTypes" value="jsp;html;tag" />
           <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1442454376126" />
           <option name="name" value="default" />
           <option name="pathToConfigFileJava" value="$APPLICATION_CONFIG_DIR$/my-setting/EclipseFormatter/JavaCode.xml" />
           <option name="selectedJavaProfile" value="MyEclipse" />
+          <option name="useForLiveTemplates" value="true" />
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
         <Settings>
