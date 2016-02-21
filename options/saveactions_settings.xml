@@ -1,8 +1,14 @@
 <application>
   <component name="SaveActionSettings">
+    <option name="actions">
+      <set>
+        <option value="activate" />
+        <option value="organizeImports" />
+        <option value="reformat" />
+      </set>
+    </option>
     <option name="exclusions">
       <set>
-        <option value=".*/.*\.java" />
         <option value=".*/.*\.js" />
         <option value=".*/.*\.jsp" />
         <option value=".*/.*\.tag" />
