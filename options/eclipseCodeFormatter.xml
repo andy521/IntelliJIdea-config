@@ -4,7 +4,7 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
-          <option name="disabledFileTypes" value="jsp;html;tag" />
+          <option name="disabledFileTypes" value="jsp;html;tag;xml" />
           <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1442454376126" />
@@ -15,12 +15,14 @@
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
         <Settings>
-          <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+          <option name="disabledFileTypes" value="jsp;html;tag;xml" />
+          <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1445412592722" />
           <option name="name" value="Zhongan-Conventions" />
           <option name="pathToConfigFileJava" value="$APPLICATION_CONFIG_DIR$/my-setting/EclipseFormatter/Zhongan-Conventions.xml" />
           <option name="selectedJavaProfile" value="Zhongan Conventions" />
+          <option name="useForLiveTemplates" value="true" />
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
       </list>
