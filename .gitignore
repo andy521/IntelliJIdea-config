@@ -6,8 +6,7 @@
 # http://2.idea.lanyus.com
 
 componentVersions
-idea14.key
-idea15.key
+*.key
 port
 port.lock
 plugins
