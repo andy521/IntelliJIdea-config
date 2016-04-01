@@ -5,7 +5,6 @@
         <Settings>
           <option name="defaultSettings" value="true" />
           <option name="disabledFileTypes" value="jsp;html;tag;xml" />
-          <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1442454376126" />
           <option name="name" value="default" />
@@ -16,7 +15,6 @@
         </Settings>
         <Settings>
           <option name="disabledFileTypes" value="jsp;html;tag;xml" />
-          <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1445412592722" />
           <option name="name" value="Zhongan-Conventions" />
