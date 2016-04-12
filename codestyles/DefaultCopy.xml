@@ -10,6 +10,8 @@
       <emptyLine />
       <package name="javax" withSubpackages="true" static="false" />
       <emptyLine />
+      <package name="lombok" withSubpackages="true" static="false" />
+      <emptyLine />
       <package name="org" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="com" withSubpackages="true" static="false" />

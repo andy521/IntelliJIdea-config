@@ -2,11 +2,11 @@
   <component name="SaveActionSettings">
     <option name="exclusions">
       <set>
-        <option value=".*\.jsp$" />
         <option value=".*\.html$" />
+        <option value=".*\.jsp$" />
+        <option value=".*\.properties$" />
         <option value=".*\.tag$" />
         <option value=".*\.xml$" />
-        <option value=".*\.properties$" />
       </set>
     </option>
   </component>
