@@ -5,6 +5,7 @@
         <Settings>
           <option name="defaultSettings" value="true" />
           <option name="disabledFileTypes" value="jsp;html;tag;xml;properties" />
+          <option name="eclipseVersion" value="ECLIPSE_44" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1442454376126" />
           <option name="importOrderConfigFilePath" value="$APPLICATION_CONFIG_DIR$/my-setting/EclipseFormatter/DefaultImportorder.importorder" />
@@ -17,10 +18,12 @@
         </Settings>
         <Settings>
           <option name="disabledFileTypes" value="jsp;html;tag;xml;properties" />
+          <option name="eclipseVersion" value="ECLIPSE_44" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1445412592722" />
           <option name="importOrderConfigFilePath" value="$APPLICATION_CONFIG_DIR$/my-setting/EclipseFormatter/DefaultImportorder.importorder" />
           <option name="importOrderFromFile" value="true" />
+          <option name="importOrdering" value="ECLIPSE_451" />
           <option name="name" value="Zhongan-Conventions" />
           <option name="pathToConfigFileJava" value="$APPLICATION_CONFIG_DIR$/my-setting/EclipseFormatter/Zhongan-Conventions.xml" />
           <option name="selectedJavaProfile" value="Zhongan Conventions" />
