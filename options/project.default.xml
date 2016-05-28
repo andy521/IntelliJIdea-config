@@ -35,6 +35,13 @@
       <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
         <file url="PROJECT" charset="UTF-8" />
       </component>
+      <component name="FindBugs-IDEA">
+        <plugins>
+          <plugin id="com.alibaba.amon" enabled="true">
+            <url>file:/$APPLICATION_CONFIG_DIR$/my-setting/FindbugsPlugin/modules.amon.findbugs-1.0.0-SNAPSHOT.jar</url>
+          </plugin>
+        </plugins>
+      </component>
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
           <option name="myName" value="Project Default" />
