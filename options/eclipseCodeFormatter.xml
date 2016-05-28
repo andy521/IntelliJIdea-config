@@ -6,6 +6,7 @@
           <option name="defaultSettings" value="true" />
           <option name="disabledFileTypes" value="jsp;html;tag;xml;properties" />
           <option name="eclipseVersion" value="ECLIPSE_44" />
+          <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1442454376126" />
           <option name="importOrderConfigFilePath" value="$APPLICATION_CONFIG_DIR$/my-setting/EclipseFormatter/DefaultImportorder.importorder" />
@@ -19,6 +20,7 @@
         <Settings>
           <option name="disabledFileTypes" value="jsp;html;tag;xml;properties" />
           <option name="eclipseVersion" value="ECLIPSE_44" />
+          <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1445412592722" />
           <option name="importOrderConfigFilePath" value="$APPLICATION_CONFIG_DIR$/my-setting/EclipseFormatter/DefaultImportorder.importorder" />
