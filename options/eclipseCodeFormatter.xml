@@ -3,7 +3,6 @@
     <option name="settingsList">
       <list>
         <Settings>
-          <option name="defaultSettings" value="true" />
           <option name="disabledFileTypes" value="jsp;html;tag;xml;properties" />
           <option name="eclipseVersion" value="ECLIPSE_44" />
           <option name="formatSeletedTextInAllFileTypes" value="false" />
@@ -18,6 +17,7 @@
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
         <Settings>
+          <option name="defaultSettings" value="true" />
           <option name="disabledFileTypes" value="jsp;html;tag;xml;properties" />
           <option name="eclipseVersion" value="ECLIPSE_44" />
           <option name="formatSeletedTextInAllFileTypes" value="false" />

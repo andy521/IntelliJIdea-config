@@ -10,6 +10,9 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="SvnDiffSettings">
@@ -36,6 +39,9 @@
           <option name="SHOW_WHITESPACES" value="true" />
           <option name="SHOW_INDENT_LINES" value="true" />
         </PlaceSettings>
+      </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
       </entry>
     </option>
   </component>
