@@ -42,6 +42,9 @@
           </plugin>
         </plugins>
       </component>
+      <component name="FindBugs-IDEA-Workspace">
+        <analyzeBeforeCheckIn>true</analyzeBeforeCheckIn>
+      </component>
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
           <option name="myName" value="Project Default" />
@@ -226,6 +229,12 @@
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
+        <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+        <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+        <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
       </component>
       <component name="masterDetails">
         <states>
