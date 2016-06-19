@@ -36,6 +36,7 @@
         <file url="PROJECT" charset="UTF-8" />
       </component>
       <component name="FindBugs-IDEA">
+        <minPriority>High</minPriority>
         <plugins>
           <plugin id="com.alibaba.amon" enabled="true">
             <url>file:/$APPLICATION_CONFIG_DIR$/my-setting/FindbugsPlugin/modules.amon.findbugs-1.0.0-SNAPSHOT.jar</url>
