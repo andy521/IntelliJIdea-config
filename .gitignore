@@ -37,6 +37,16 @@ options/vcs.xml
 options/web-browsers.xml
 options/webServers.xml
 options/window.manager.xml
+options/git.xml
+options/find.recents.xml
+options/hg.xml
+options/lombok.xml
+options/mybatis.xml
+options/scala.xml
+options/find.xml
+options/multimarkdown.local.xml
+options/multimarkdown.shared.xml
+options/window.state.xml
 
 recentProjects.xml
 updates.xml
