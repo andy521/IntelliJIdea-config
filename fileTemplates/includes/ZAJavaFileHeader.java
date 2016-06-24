@@ -5,6 +5,6 @@
 #set($fdate = $dateFormat.format($date))
 /**
  * 类${NAME}的实现描述：TODO 类实现描述
- * 
+ *
  * @author chenyao $fdate
  */
