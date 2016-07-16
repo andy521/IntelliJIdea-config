@@ -18,7 +18,7 @@
         </Settings>
         <Settings>
           <option name="defaultSettings" value="true" />
-          <option name="disabledFileTypes" value="jsp;html;tag;xml;properties" />
+          <option name="disabledFileTypes" value="jsp;html;tag;xml;properties;ftl" />
           <option name="eclipseVersion" value="ECLIPSE_44" />
           <option name="formatSeletedTextInAllFileTypes" value="false" />
           <option name="formatter" value="ECLIPSE" />

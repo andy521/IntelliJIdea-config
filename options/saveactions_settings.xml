@@ -9,6 +9,7 @@
     </option>
     <option name="exclusions">
       <set>
+        <option value=".*\.ftl$" />
         <option value=".*\.html$" />
         <option value=".*\.jsp$" />
         <option value=".*\.properties$" />
